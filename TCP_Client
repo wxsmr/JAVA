@@ -1,0 +1,12 @@
+const net = require('net');
+
+var client = net.Socket();
+
+client.conncet(18001,"192.168.1.2",function(){
+    console.log("客户端连接服务器成功,正在连接。。。。");
+ /*2.可以发送服务器发送的数据 */
+});
+ /*1.可以接受服务器发送的数据 */
+ client.on("data",function(data){
+     console.log("客户端接受的数据为:"+data.toString());
+ })
