@@ -28,5 +28,5 @@ myServer.on('connection',(socket) =>{
     /*关闭事件驱动 */
     myServer.on("close",()=>{
         console.log("服务器正常关闭");
-    });
+});
 })
