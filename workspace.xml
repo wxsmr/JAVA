@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="464fbdb3-21c4-40f0-bf3a-5da17297553d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BitcoinConnect04/BitcoinConnect04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BitcoinConnect04/src/com/btc/connect/BTCConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BitcoinConnect04/src/com/btc/connect/JSONDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CryptoCode04/CryptoCode04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CryptoCode04/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CryptoCode04/src/GirlFirend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyMaven04/MyMaven04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyMaven04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/.idea/libraries/Maven__org_mybatis_mybatis_3_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/Mybatis04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/src/main/java/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/src/main/java/UserMappper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/src/main/java/datatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/src/main/resources/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/src/test/java/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis04/src/test/java/TestStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeniorJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dmeo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeniorJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/JavaDome01/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/JavaDome01/JavaDome01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/JavaDome01/untitled/html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/1028_04_cityWeather/.idea/1028_04_cityWeather.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/Ace_admin/.idea/Ace_admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/Ace_admin/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/BitcoinConnect04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/BitcoinConnect04/BitcoinConnect04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/CryptoCode04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/CryptoCode04/CryptoCode04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/JAVA-master/nodejs_06/.idea/nodejs_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/TCPSERVER_03_1109/.idea/TCPSERVER_03_1109.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/TCPSERVER_03_1109/TCP_Server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/nodeMysql_04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/nodeMysql_04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/nodeMysql_04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/nodeMysql_04/.idea/nodeMysql_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/nodeMysql_04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/nodejs_06/.idea/nodejs_06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lMEZ71qIuE2gIiKjmO7UewUZ8Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BitcoinConnect04" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="464fbdb3-21c4-40f0-bf3a-5da17297553d" name="Default Changelist" comment="" />
+      <created>1607398612556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607398612556</updated>
+      <workItem from="1607398613928" duration="1161000" />
+      <workItem from="1607408001618" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="108" key="FileChooserDialogImpl" timestamp="1607408020966">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="528" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607408020966" />
+  </component>
+</project>
